@@ -7,17 +7,17 @@
 
 ![Calculations](calculations.PNG)
 
-![Treynor Calculations](treynor calculations.PNG)
+![Treynor Calculations](treynor-calculations.PNG)
 
-![Treynor Ratio and Value at Risk (VaR)](treynor and var.PNG)
+![Treynor Ratio and Value at Risk (VaR)](treynor-var.PNG)
 
-![Normal Distribution](Normal Distribution.PNG)
+![Normal Distribution](Normal-Distribution.PNG)
 
 ![Risk Free Rates](risk-free.PNG)
 
 ![Sortino Ratio Formula](Sortino.PNG)
 
-![Stock Returns Comparison](sortino and sharpe.PNG)
+![Stock Returns Comparison](sortino-sharpe.PNG)
 
 
 
